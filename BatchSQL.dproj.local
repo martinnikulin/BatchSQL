@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.306,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Project2.dproj=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\BatchSQL.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit3.dfm=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\DMUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.397,=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\MainUnit.dfm=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.781,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\ServerUnit.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DBUpdaterUnit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.835,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\MessengerUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.601,=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.685,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\ProjectUnit.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.366,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\MainUnit.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.962,=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.057,=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit2.pas=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\MainUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.294,=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\DMUnit.dfm=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.256,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\CatalogScanerUnit.pas=</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.081,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit.dfm=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.970,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit3.pas=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\DMUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.659,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit2.dfm=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\MainUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.181,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit1.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.586,=C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.575,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\Unit1.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DBUpdaterUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.234,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.181,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit1.dfm=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.899,C:\Users\Вадим\Documents\Embarcadero\Studio\Projects\DMUnit.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\DMUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.230,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.982,C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\Unit1.pas=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\CatalogScanerUnit.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.287,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.109,=C:\Users\Вадим\Documents\MEGA\MEGAsync\Projects\BatchSQL\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
